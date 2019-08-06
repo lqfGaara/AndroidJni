@@ -1,10 +1,13 @@
 # Summary
-
-* [Introduction](README.md)
-* [C语言基础01](c01.md)
-* [C语言基础02](c02.md)
-
-
-
-
+ * [数值、字符与字符串](basics/02_var.md)
+ * [运算符及表达式](basics/03_expression.md)
+ * [选择结构与循环结构](basics/04_selection_&_loop.md)
+ * [函数基本概念及作用域](basics/05_function.md)
+ * [编译预处理命令](basics/06.md)
+ * [数组](basics/07_array.md)
+ * [指针的基本概念](basics/08_pointer_basic.md)
+ * [指针与数组](basics/09_pointer_&_array.md)
+ * [字符串处理](basics/10_string.md)
+ * [调试以及资料收集](basics/11_debug.md)
+ * [结构体](basics/12_struct.md)
 
