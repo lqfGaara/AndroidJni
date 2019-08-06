@@ -1,5 +1,5 @@
 # android Jni开发
-## C语言基础(引用https://github.com/Lellansin/C-basic-tutorial)
+## C语言基础
  * [数值、字符与字符串](C语言基础/02_var.md)
  * [运算符及表达式](C语言基础/03_expression.md)
  * [选择结构与循环结构](C语言基础/04_selection_&_loop.md)
