@@ -12,7 +12,7 @@ type (*p)(type1 var1, type2 var2, ... )
 
 #### 直接上一个例子，就能很方便的看清楚如何使用函数指针：
 
-```
+```c
 #include<stdio.h>
 #include<stdlib.h>
 
