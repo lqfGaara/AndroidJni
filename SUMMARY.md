@@ -1,6 +1,6 @@
 # Summary
 
-## C语言基础\(大部分来自[https://github.com/lqfGaara/C-basic-tutorial](https://github.com/lqfGaara/C-basic-tutorial)\)
+## C语言基础\(大部分来自[https://github.com/Lellansin/C-basic-tutorial](https://github.com/Lellansin/C-basic-tutorial)\)
 
 * [数值、字符与字符串](C语言基础/02_var.md)
 * [运算符及表达式](C语言基础/03_expression.md)
