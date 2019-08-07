@@ -75,5 +75,72 @@ struct结构体名
 
 #### 2. 结构体类型变量的定义
 
+`1.先定义结构，后定义变量:struct`
+
+```
+struct stu
+{
+    char name[20];
+    char sex;
+    float score;
+};
+struct stu boy,girl;
+```
+
+`2.用宏定义结构类型:`
+
+```
+#
+define
+ STU struct stu
+struct
+stu
+
+{
+char
+ name[
+20
+];
+    
+char
+ sex;
+    
+float
+ score;
+};
+
+struct
+stu
+boy
+,
+girl
+;
+```
+
+`3.在定义结构类型的同时说明变量：`
+
+```
+struct
+stu
+
+{
+char
+ name[
+20
+];
+    
+char
+ sex;
+    
+float
+ score;
+}boy,girl;
+```
+
+  
+
+
+
+
 
 
