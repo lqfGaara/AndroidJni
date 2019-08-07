@@ -89,31 +89,14 @@ struct stu boy,girl;
 `2.用宏定义结构类型:`
 
 ```
-#
-define
- STU struct stu
-struct
-stu
-
+#define STU struct stu
+struct stu
 {
-char
- name[
-20
-];
-
-char
- sex;
-
-float
- score;
+    char name[20];
+    char sex;
+    float score;
 };
-
-struct
-stu
-boy
-,
-girl
-;
+struct stu boy,girl;
 ```
 
 `3.在定义结构类型的同时说明变量：`
