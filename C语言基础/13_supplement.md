@@ -108,7 +108,14 @@ struct stu
 }boy,girl;
 ```
 
-
+```
+4.匿名结构体
+（控制结构体变量的个数（限量版），相当于单例）
+struct{
+	char name[20];
+	int age;
+}m1;
+```
 
 
 
