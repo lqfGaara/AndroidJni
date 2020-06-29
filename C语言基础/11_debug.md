@@ -81,26 +81,8 @@ B站：<a rel="nofollow" href="http://www.bilibili.tv/video/av400594/" target="_
 《C和指针》人民邮电出版社
 《C语言实例解析精粹》曹衍龙
 
-<span style="font-size: xx-large;">如何学习？</span>
 
-1.理解编程过程中的知识点
-2.使用自己理解知识去编程、在编程的过程中验证所学
-3.尝试去寻找题目编写
-4.在调试中寻找自己的不足
-5.阅读好的书籍，查漏补缺(可搜索笔记)
 
-<span style="font-size: xx-large;">小结</span>
 
-1.调试的基本方法
-2.去哪里找资料？
-3.如何学习比较好？
-
-如果有发现不错的网站或者资料可以向博主推荐
-特别是各个博客区中比较好的博客
-后期还会再排版，汇总推荐
-
-C/C++ Beginner 一群 10191598
-C/C++ Beginner 二群 163859361 （感谢One day捐助）
-C/C++ Beginner 三群 10366953 （感谢Vol jun捐助）
 
 <h1><a rel="nofollow" href="http://www.lellansin.com/c%e8%af%ad%e8%a8%80%e5%85%a5%e9%97%a8%e6%95%99%e7%a8%8b-%e7%ac%ac12%e8%ae%b2-%e7%bb%93%e6%9e%84%e4%bd%93.html" title="Permalink to c语言入门教程 第12讲 结构体" rel="bookmark">c语言入门教程 第12讲 结构体</a></h1>
